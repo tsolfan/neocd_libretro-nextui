@@ -1,0 +1,17 @@
+{
+  "name": "Neo Geo CD",
+  "version": "v1.0.0",
+  "type": "EMU",
+  "description": "A Neo Geo CD emulator for minarch using the NeoCD-Libretro core.",
+  "author": "TSOLfan",
+  "repo_url": "https://github.com/tsolfan/neocd_libretro-nextui/",
+  "release_filename": "NEOCD.pak.zip",
+  "changelog": {
+    "v1.0.0": "Initial Release."
+  },
+  "platforms": [
+    "tg5040",
+    "my355",
+    "h700"
+  ]
+}
