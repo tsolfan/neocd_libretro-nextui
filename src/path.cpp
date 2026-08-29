@@ -4,7 +4,7 @@
 #include "libretro_common.h"
 #include "path.h"
 
-static const char* const NEOCD_SYSTEM_SUBDIR = "neocd";
+static const char* const NEOCD_SYSTEM_SUBDIR = "";
 static const char* const NEOCD_DEFAULT_SRM_FILENAME = "neocd";
 static const char* const NEOCD_SRM_EXT = ".srm";
 
