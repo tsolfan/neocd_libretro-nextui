@@ -1,5 +1,5 @@
 {
-  "name": "Neo Geo CD",
+  "name": "NEOCD",
   "version": "v1.0.0",
   "type": "EMU",
   "description": "A Neo Geo CD emulator for minarch using the NeoCD-Libretro core.",
